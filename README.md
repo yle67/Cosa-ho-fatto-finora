@@ -3,18 +3,16 @@
   <meta charset="UTC +8">
 <html lang="it"<
 <main>
-  <con
+<title> cosa ho imparato</title>
+
   <body>
 <h1> Cosa sto imparando al momento</h1>
+    
     <ul>
      HTML
      CSS
   </ul>
 
-
-
-
-    
-  </body>    
-</main> 
+</main>
+</body>
 </html>
