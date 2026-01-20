@@ -11,7 +11,7 @@
     <ul>
      HTML
      CSS
-  </ul>
+    </ul>
 
 </main>
 </body>
